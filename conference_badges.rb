@@ -6,7 +6,10 @@ end
 
 
 def batch_badge_creator(array)
-
+  array.collect do |i|
+    
+  end
+  array
 end
 
 def assign_rooms(array)
